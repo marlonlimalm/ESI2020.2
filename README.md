@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Projeto Github Actions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto feito para aprender sobre Continuos Integration
 
-## Available Scripts
+## Scripts Disponíveis
 
 In the project directory, you can run:
 
