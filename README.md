@@ -1,3 +1,4 @@
+![CI](https://github.com/marlonlimalm/ESI2020.2/workflows/CI/badge.svg?branch=master)
 # Projeto Github Actions
 
 Projeto feito para aprender sobre Continuos Integration
