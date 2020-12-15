@@ -10,7 +10,7 @@ Projeto feito para aprender sobre Continuos Integration
 - [x] executar os testes
 - [x] quando enviado para o master, fazer o build do projeto
 - [ ] disponibilizar o relatório de cobertura de testes e build ao fim do workflow
-- [ ] quando enviado para o master, fazer a implantação do projeto
+- [ ] quando enviado para o master, fazer a implantação do projeto no [link](https://physical-attempt.surge.sh/)
  
 ## Scripts Disponíveis
 
